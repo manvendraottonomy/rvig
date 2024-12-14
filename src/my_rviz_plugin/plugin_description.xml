@@ -1,0 +1,9 @@
+<library path="lib/libmy_rviz_plugin">
+  <class name="my_rviz_plugin/MyPlugin"
+         type="my_rviz_plugin::MyPlugin"
+         base_class_type="rviz::Panel">
+    <description>
+      A custom plugin for RViz.
+    </description>
+  </class>
+</library>

@@ -1,0 +1,16 @@
+-I/home/ottonomyio/worlds/catkin_ws/src/my_rviz_plugin/include
+-I/opt/ros/melodic/include
+-I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include/eigen3
+-I/usr/include/OGRE/Overlay
+-I/usr/include/OGRE
+-I/usr/include
+-I/home/ottonomyio/worlds/catkin_ws/src/my_rviz_plugin
+-I/home/ottonomyio/worlds/catkin_ws/build/my_rviz_plugin
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="my_rviz_plugin"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/ottonomyio/worlds/catkin_ws/build/my_rviz_plugin/include/my_rviz_plugin/moc_my_plugin.cpp
+/home/ottonomyio/worlds/catkin_ws/src/my_rviz_plugin/include/my_rviz_plugin/my_plugin.h

@@ -1,0 +1,2 @@
+my_rviz_plugin
+-DCATKIN_DEVEL_PREFIX=/home/ottonomyio/worlds/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ottonomyio/worlds/catkin_ws/install -G Unix Makefiles

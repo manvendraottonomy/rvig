@@ -1,0 +1,8 @@
+prefix=/home/ottonomyio/worlds/catkin_ws/install
+
+Name: my_rviz_plugin
+Description: Description of my_rviz_plugin
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmy_rviz_plugin
+Requires: rviz pluginlib
